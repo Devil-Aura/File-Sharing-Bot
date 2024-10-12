@@ -97,7 +97,7 @@ async def start_command(client: Client, message: Message):
         # for madflix_msg in madflix_msgs: 
             # try:
                 # await madflix_msg.delete()
-                # await k.edit_text("Your Video / File Is Successfully Deleted ✅ \n For More Anime In Hindi Dub Join @CrunchyRollOfficialChannel.") 
+                # await k.edit_text("Your Video / File Is Successfully Deleted ✅ For More Anime In Hindi Dub Join @CrunchyRollOfficialChannel.") 
             # except:    
                 # pass 
 
