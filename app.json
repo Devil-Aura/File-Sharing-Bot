@@ -8,12 +8,12 @@
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "22768311",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "702d8884f48b42e865425391432b3794",
           "required": true
       },
       "BOT_TOKEN": {
@@ -23,22 +23,22 @@
       },
       "OWNER_ID": {
         "description":"Add Your User ID here",
-        "value": "",
+        "value": "6040503076",
         "required": true
       },
       "CHANNEL_ID": {
           "description":"Make a channel (database channel), then make the bot as admin in channel, and it's id",
-          "value": "",
+          "value": "-1002436399053",
           "required": true          
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "0",
+        "value": "-1001999825163",
         "required": false
       },
       "DB_URL": {
           "description": "Your Mongo DB Database URL",
-          "value": "",
+          "value": "mongodb+srv://imh203356:qsc6pCJ6z6jaTrVP@cluster0.fisr5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
           "required": true
       },
       "DB_NAME":{ 
