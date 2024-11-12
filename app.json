@@ -33,7 +33,7 @@
       },
       "FORCE_SUB_CHANNEL": {
         "description": "id of the channel or group, if you want enable force sub feature else put 0",
-        "value": "-1001999825163 -1002059068082",
+        "value": "-1001999825163",
         "required": false
       },
       "DB_URL": {
